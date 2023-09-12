@@ -1,5 +1,4 @@
-# silly-snake
-ROCK PAPER SCISSORS GAME 
+# ROCK PAPER SCISSORS GAME 
 ## IF you are prompted too write R, P, or S.
 ## THEN type R, P, or S in prompt
 ## IF you type R, P, or S 
