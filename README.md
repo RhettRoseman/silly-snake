@@ -1,4 +1,6 @@
 # ROCK PAPER SCISSORS GAME 
+
+### HINT: Refresh page to run javaScript
 ## IF you are prompted too write R, P, or S.
 ## THEN type R, P, or S in prompt
 ## IF you type R, P, or S 
